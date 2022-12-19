@@ -1,0 +1,15 @@
+Resualt of polinomail by Gornar
+Polinomial: 1.0*X^5 + 2.0*X^4 + 3.0*X^3 + 4.0*X^2 + 5.0*X^1 + 6.0*X^0
+Interval from 0.0 to 1.0 bt step 0.1
+====================================================
+Val in the spot 0.0 equael 6.0 reverse value: 1.0 diffrence: 5.0
+Val in the spot 0.1 equael 6.54321 reverse value: 1.2345599999999999 diffrence: 5.30865
+Val in the spot 0.2 equael 7.18752 reverse value: 1.56192 diffrence: 5.6256
+Val in the spot 0.30000000000000004 equael 7.9596300000000015 reverse value: 2.0330800000000004 diffrence: 5.926550000000001
+Val in the spot 0.4 equael 8.89344 reverse value: 2.7254400000000008 diffrence: 6.167999999999999
+Val in the spot 0.5 equael 10.03125 reverse value: 3.75 diffrence: 6.28125
+Val in the spot 0.6000000000000001 equael 11.42496 reverse value: 5.258560000000002 diffrence: 6.1663999999999985
+Val in the spot 0.7000000000000001 equael 13.137270000000001 reverse value: 7.450920000000002 diffrence: 5.686349999999999
+Val in the spot 0.8 equael 15.242880000000001 reverse value: 10.582080000000001 diffrence: 4.6608
+Val in the spot 0.9 equael 17.82969 reverse value: 14.969440000000002 diffrence: 2.860249999999997
+Val in the spot 1.0 equael 21.0 reverse value: 21.0 diffrence: 0.0
